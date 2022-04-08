@@ -48,4 +48,6 @@
 ;;
 ;; You can also try 'gd' (or 'C-c c d') to jump to their definition and see how
 ;; they are implemented.
-(setq doom-theme 'doom-gruvbox)
+(setq doom-theme 'quasi-monochrome)
+(setq mastodon-active-user "fulton"
+        mastodon-instance-url "https://mastodon.sdf.org")
